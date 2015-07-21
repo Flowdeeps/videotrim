@@ -1,0 +1,9 @@
+body * {
+	display: block;
+	}
+canvas {
+	outline: solid 1px red;
+	}
+video {
+	/*display: none;*/
+	}
